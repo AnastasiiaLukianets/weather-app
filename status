@@ -1,0 +1,41 @@
+[33mcommit 822d5dd3634bdbd14a4331a23d0d8aa0603fa7c1[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: AnastasiiaLukianets <anastasiia.lukianets@isolutions.ch>
+Date:   Wed Aug 31 14:57:04 2022 +0200
+
+    skip - git test 3
+
+[33mcommit 8d97348bc035074738ac90b12c1dd6bf65bcb2c5[m
+Author: AnastasiiaLukianets <anastasiia.lukianets@isolutions.ch>
+Date:   Wed Aug 31 14:55:42 2022 +0200
+
+    skip - git ignore test 2
+
+[33mcommit 521551b95ddf113910275cb803de397e452045c4[m
+Author: AnastasiiaLukianets <anastasiia.lukianets@isolutions.ch>
+Date:   Wed Aug 31 14:52:34 2022 +0200
+
+    skip - test git ignore
+
+[33mcommit 0427ad9603fadea5278f6904fffb2e552ffbc9ce[m
+Author: AnastasiiaLukianets <anastasiia.lukianets@isolutions.ch>
+Date:   Tue Aug 30 19:17:44 2022 +0200
+
+    general view small updates
+
+[33mcommit ce94c0e9a91dbe1a26fbd289c7956b4cef20e693[m
+Author: AnastasiiaLukianets <anastasiia.lukianets@isolutions.ch>
+Date:   Tue Aug 30 18:54:54 2022 +0200
+
+    add images to icons
+
+[33mcommit b6d6bb2bb8a3f360a710456242685d657808b369[m
+Author: AnastasiiaLukianets <anastasiia.lukianets@isolutions.ch>
+Date:   Tue Aug 30 18:33:09 2022 +0200
+
+    Forecast component added - pending updates
+
+[33mcommit c07c61e7d2fa5db025565c2bc5dd04ec4a762c2e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/featureToDev[m[33m, [m[1;32mmaster[m[33m)[m
+Author: AnastasiiaLukianets <anastasiia.lukianets@isolutions.ch>
+Date:   Tue Aug 30 17:41:43 2022 +0200
+
+    initial commit
